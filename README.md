@@ -11,7 +11,9 @@
     sudo apt install npm;
   }
   ```
-  __run the following on your terminal__
+  __(OPTIONAL)run the following on your terminal__
+  
+  _For future use in creating a new laravel project for the sake of convinience_
   
   ```
   composer global require laravel/installer
