@@ -66,7 +66,7 @@ Installation failed, deleting ./composer.json.
   __clone this the repo to your local machine__
   
   ```
-    git clone 
+    git clone https://github.com/MULUALEM-TEKLE/trada.git
   ```
 
 ### 3 | Running the project
