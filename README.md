@@ -60,6 +60,7 @@ Installation failed, deleting ./composer.json.
   ```
   sudo apt-get install php7.3-zip
   ```
+  __NOTE :__  _during this proccess some packages might not be installed correctly so try it again untill it succeeds_
   php 7.3.* must be used
   
   ### 2 | Cloning the repo 
