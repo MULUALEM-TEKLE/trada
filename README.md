@@ -1,6 +1,6 @@
 # trada
 
-![](/trada.png)
+![](/trada.jpg)
 
 ## SetUp instructions 
 ### 1 | System Requirments
